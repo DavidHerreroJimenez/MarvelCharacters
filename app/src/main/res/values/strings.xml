@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MarvelCharacters</string>
+
+    <!-- Fragment heroes list -->
+    <string name="activity_heroeslist_title">Find your Super-Hero</string>
+    <string name="fragment_characters_edittext_hint_text">Name to find</string>
+    <string name="fragment_characters_textview_empty_list">Nothing to show</string>
+    <string name="fragment_characters_dialog_title">Characters</string>
+    <string name="fragment_characters_dialog_description">Downloading characters</string>
+</resources>
